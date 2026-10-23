@@ -1,0 +1,2 @@
+Experiment 1 sample file.
+Basic Git operations (init, add, commit, status, log) should be practiced locally and then pushed here.
